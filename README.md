@@ -11,7 +11,7 @@ $ brew services start redis
 
 or
 
-$ sudo service redis-server start
+$ sudo systemctl start redis
 
 or using docker
 
